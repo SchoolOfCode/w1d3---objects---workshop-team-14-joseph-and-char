@@ -58,5 +58,7 @@ person.isBootcamper = true;
 };
 let text = communication.payload.message.text;
 
+let test = "a test";
+
 
 
