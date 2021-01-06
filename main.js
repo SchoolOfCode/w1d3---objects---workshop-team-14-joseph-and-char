@@ -15,6 +15,22 @@ let myFavMovies={  Mov:"Dark Knight",
            LeadActor:"Christian Bale"
           }
 
+let person = {
+  name: "Ben",
+  likesChocolate: true,
+};
+
+person.name = "Betty";
+person.likesChocolate = false;
+
+if(person.likesChocolate === true)
+{
+  console.log("Ben loves chocolate");
+}
+else
+{
+  console.log("Ben hates chocolate");
+}
 
              
              
