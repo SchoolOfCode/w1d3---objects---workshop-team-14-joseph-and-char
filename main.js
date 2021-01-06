@@ -10,7 +10,10 @@ let myCar={  colour: "red",
             seats:2,
             milesPerGallon: 20
           }
-
+let myFavMovies={  Mov:"Dark Knight",
+           Realeased:2008,
+           LeadActor:"Christian Bale"
+          }
 
 
              
