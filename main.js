@@ -38,5 +38,13 @@ let bensPhrases = {
   farewell: "See you in another life brother",
   smallTalk: "Warm today isn't it...",
 };
-console.log (bensPhrases[desiredPleasantry])
+console.log (bensPhrases[desiredPleasantry]);
+
+let person = {
+  firstName: "firstName",
+  lastName: "lastName",
+  isBootcamper: false,
+};
+
+person.isBootcamper = true;
              
